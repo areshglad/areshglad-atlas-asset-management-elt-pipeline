@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: aresh_dbt
+    database: aresh_dbt
+    schema: default
+
+    tables:
+      - name: atlas_portfolio
+      
