@@ -251,7 +251,7 @@ MBA Candidate (2027)
 
 Target Roles:
 
-* Goldman Sachs Asset Management
+
 * Investment Analytics
 * Portfolio Analytics
 * Risk Analytics
